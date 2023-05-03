@@ -1,3 +1,8 @@
+
+## Respostas da Questão 2
+
+
+
 ## 2.6) Qual é a diferença entre um 'fork' e um 'branch'?
 
  - Fork: Comando que gera para um usuário uma cópia  independente do projeto original elaborado pelo seu desenvolvedor, que pode ser manipulada e alterada de forma separada
