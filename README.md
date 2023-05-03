@@ -21,3 +21,10 @@ Exemplo: O comando abaixo cria uma branch
 
     git rev-parse HEAD
 
+## 2.8) O que é um 'stash'?
+Em Git o stash atua como uma funcionalidade que permite ao usuário salvar alterações no projeto, gerando um "stash" temporário, permitindo transitar entre diretórios do projeto sem que haja perda das alterações realizadas em outras partes
+
+Exemplo: O comando abaixo cria uma stash no repositório da atividade
+
+    git stash save "Alteração no Readme.md da Q2"
+
