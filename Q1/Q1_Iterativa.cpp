@@ -36,7 +36,7 @@ int main()
  * @brief Função que calcula iterativamente o "n" termo da sequencia de Tribonacci
  * @details A função recebe um numero inteiro e calcula o "n" termo da sequencia de Tribonacci, existem excessões caso sejam
  * sejam inseridos os valores 0, 1 ou 2, correspondente ao if e else if, e o else é o calculo iterativo
- * @return quantas vezes o numero apareceu
+ * @return  o "n" termo da sequencia de Tribonacci
 */ 
 
 int seqTribonacci(int n) 
