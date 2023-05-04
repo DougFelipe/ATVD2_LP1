@@ -27,7 +27,7 @@ int main()
 
     cin >> n;
 
-    cout << "O " << n << " o termo da sequencia tribonacci é: " << seqTribonacci(n) << endl;
+    cout << "O termo " << n << " da sequencia tribonacci é: " << seqTribonacci(n) << endl;
 
     return 0;
 }
