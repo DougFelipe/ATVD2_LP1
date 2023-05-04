@@ -33,3 +33,18 @@ Exemplo: O comando abaixo cria uma stash no repositório da atividade
 
     git stash save "Alteração no Readme.md da Q2"
 
+## 2.10) O que é um "pull request"?
+
+O pull request é uma solicitação feita ao detentor de um repositório, main ou branch de um projeto para que alterações realizadas realizadas a partir de um fork ou branch sejam inseridas ao código original. Necessita ser aprovado pelo detentor do projeto
+
+Exemplo: O código abaixo realiza um pull request
+
+    git push branch_q2 atualiza_Q2
+    
+## 2.2) O que é “git prefetch”?
+O comando git prefetch realiza buscas por atualizações de um determinado repositório e as salva localmente, mas sem fazer o merge automático das atualizações na branch realizada, ou seja, é preciso realizar passos adicionais caso queira fazer o merge.
+
+Exemplo: comando que realiza um prefetch no repositório da atividade
+
+    git fetch https://github.com/DougFelipe/ATVD2_LP1
+
